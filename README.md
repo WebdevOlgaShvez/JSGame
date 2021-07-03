@@ -1,2 +1,2 @@
-# JSGame
+# <https://webdevolgashvez.github.io/JSGame>
  
